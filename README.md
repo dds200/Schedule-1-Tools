@@ -8,9 +8,9 @@ Designed for enhanced control over host switching, save exporting/importing, and
 Created by: dds_200
 
 ## REQUIREMENTS
-• Windows 10 or 11
-• No installation needed if you use the EXE version (all dependencies are bundled)
-• If running the Python script directly:
+- Windows 10 or 11
+- No installation needed if you use the EXE version (all dependencies are bundled)
+- If running the Python script directly:
     - Python 3.8+
     - Run: pip install art
 
