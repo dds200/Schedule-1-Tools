@@ -17,7 +17,7 @@ Created by: dds_200
 ## USAGE
 
 Run the tool using:
-    schedule1_tool.exe
+    Schedule-1-Tools.exe
 
 Select a mode using the number shown in the main menu.
 
