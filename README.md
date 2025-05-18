@@ -50,7 +50,7 @@ Select a mode using the number shown in the main menu.
    - Purpose: Delete a save file permanently.
    - Usage: Select the save you want to remove. You’ll be asked for confirmation before deletion.
 
-## Settings
+## SETTINGS
 
 1. Change the name of a person
    → Rename any of the players listed in the config.
