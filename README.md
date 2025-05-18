@@ -1,6 +1,6 @@
 # SCHEDULE 1 SAVE TOOLS 
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen?style=plastic)](https://github.com/dds200/Schedule-1-Tools/releases/download/v1.0.0/Schedule.1.Tools.exe)
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen?style=plastic)](https://github.com/dds200/Schedule-1-Tools/releases/download/v1.0.0/Schedule-1-Tools.exe)
 
 A command-line utility for managing save files in the game "Schedule I".
 Designed for enhanced control over host switching, save exporting/importing, and personalization.
